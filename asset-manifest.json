@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lazer-movies/static/css/main.e9e93dd3.chunk.css",
+    "main.js": "/lazer-movies/static/js/main.9b6450b4.chunk.js",
+    "runtime-main.js": "/lazer-movies/static/js/runtime-main.9d5c4632.js",
+    "static/js/2.224742d2.chunk.js": "/lazer-movies/static/js/2.224742d2.chunk.js",
+    "index.html": "/lazer-movies/index.html",
+    "static/js/2.224742d2.chunk.js.LICENSE.txt": "/lazer-movies/static/js/2.224742d2.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/lazer-movies/static/media/background.fbc5566a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d5c4632.js",
+    "static/js/2.224742d2.chunk.js",
+    "static/css/main.e9e93dd3.chunk.css",
+    "static/js/main.9b6450b4.chunk.js"
+  ]
+}

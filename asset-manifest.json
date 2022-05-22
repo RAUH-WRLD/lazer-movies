@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lazer-movies/static/css/main.e12f971d.chunk.css",
-    "main.js": "/lazer-movies/static/js/main.95835f09.chunk.js",
+    "main.js": "/lazer-movies/static/js/main.e239e8ee.chunk.js",
     "runtime-main.js": "/lazer-movies/static/js/runtime-main.9d5c4632.js",
     "static/js/2.92f4d033.chunk.js": "/lazer-movies/static/js/2.92f4d033.chunk.js",
     "index.html": "/lazer-movies/index.html",
@@ -12,6 +12,6 @@
     "static/js/runtime-main.9d5c4632.js",
     "static/js/2.92f4d033.chunk.js",
     "static/css/main.e12f971d.chunk.css",
-    "static/js/main.95835f09.chunk.js"
+    "static/js/main.e239e8ee.chunk.js"
   ]
 }
